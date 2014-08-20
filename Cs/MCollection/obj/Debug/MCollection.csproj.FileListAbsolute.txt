@@ -1,0 +1,5 @@
+E:\NAU\ООП\Практика\Cs\Practic\MCollection\bin\Debug\MCollection.dll
+E:\NAU\ООП\Практика\Cs\Practic\MCollection\bin\Debug\MCollection.pdb
+E:\NAU\ООП\Практика\Cs\Practic\MCollection\obj\Debug\MCollection.csprojResolveAssemblyReference.cache
+E:\NAU\ООП\Практика\Cs\Practic\MCollection\obj\Debug\MCollection.dll
+E:\NAU\ООП\Практика\Cs\Practic\MCollection\obj\Debug\MCollection.pdb

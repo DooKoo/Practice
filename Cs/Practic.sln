@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCollection", "MCollection\MCollection.csproj", "{F8559254-88B1-4F8F-8B17-082536485665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticApp", "PracticApp\PracticApp.csproj", "{703E65DB-D2C4-42CD-BE7B-94F943F833AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8559254-88B1-4F8F-8B17-082536485665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8559254-88B1-4F8F-8B17-082536485665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8559254-88B1-4F8F-8B17-082536485665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8559254-88B1-4F8F-8B17-082536485665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703E65DB-D2C4-42CD-BE7B-94F943F833AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E65DB-D2C4-42CD-BE7B-94F943F833AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E65DB-D2C4-42CD-BE7B-94F943F833AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E65DB-D2C4-42CD-BE7B-94F943F833AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
